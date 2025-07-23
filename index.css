@@ -10,18 +10,21 @@
     font-size:xx-large;
     
 border-style: dotted;
-    
-    
+   margin-left: 20px;
+padding-bottom: 25px;    
 
 }
 .p2{
-    color: yellow;
-    background-color: blue;
+    color: rgb(2, 40, 48);
+    border-style: solid;
+    margin: 26px;
+padding: 30px;
+border: 20px dotted blue;
+
 }
 
 #p3{ color: skyblue;
-    background-color: black;
-    font-size:xx-large;
-
-
+    background-color: red;
+    font-size:xx-large; 
+   padding-left: 40px;
 }
